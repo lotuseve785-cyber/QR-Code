@@ -5,6 +5,7 @@
 }
 
 body{
+  font-family: "outfit", sans-serif;
   background-color: rgb(221, 234, 252);
   height: 100vh;
   display: flex;
